@@ -22,13 +22,13 @@ calculadora_python/
 │   │── icone_calculadora.ico  # Ícone da aplicação  
 
 ## Como Executar:
-1. Clone este repositório: `git clone https://github.com/seu-usuario/calculadora_python.git`
+1. Clone este repositório: `git clone https://github.com/henrique-henschel/calculadora_python.git`
 2. Acesse o diretório do projeto: `cd calculadora_python/src`
 3. Execute o programa: `python main.py` ou `python3 main.py`, a depender do sistema operacional
 
 ## Observações
 - O projeto não requer bibliotecas externas, pois utiliza apenas módulos padrão do Python.
 - Caso deseje, pode criar um ambiente virtual para isolar o projeto:
-```python -m venv venv  
-source venv/bin/activate  # No Linux/macOS  
-venv\Scripts\activate  # No Windows```
+`python -m venv venv  
+   source venv/bin/activate  # No Linux/macOS  
+venv\Scripts\activate  # No Windows`
