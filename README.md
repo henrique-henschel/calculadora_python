@@ -4,7 +4,7 @@ Este é um projeto de uma calculadora básica desenvolvida em Python com interfa
 
 ## Funcionalidades:
 - Interface gráfica intuitiva e minimalista, semelhante a calculadoras físicas.
-- Operações matemáticas básicas: adição (+), subtração (-), multiplicação (*), e divisão (/).
+- Operações matemáticas básicas: adição (+), subtração (-), multiplicação (*) e divisão (/).
 - Botões para limpar o display (C) e apagar o último dígito (←).
 - Cálculo do resultado ao pressionar "=".
 
