@@ -29,6 +29,8 @@ calculadora_python/
 ## Observações
 - O projeto não requer bibliotecas externas, pois utiliza apenas módulos padrão do Python.
 - Caso deseje, pode criar um ambiente virtual para isolar o projeto:
-`python -m venv venv  
-   source venv/bin/activate  # No Linux/macOS  
-venv\Scripts\activate  # No Windows`
+```
+python -m venv venv  
+source venv/bin/activate  # No Linux/macOS  
+venv\Scripts\activate  # No Windows
+```
